@@ -1,0 +1,67 @@
+html {
+  background-color: #f5f7f9;
+}
+
+h1 {
+  text-align: center;
+}
+
+body {
+  background: none;
+  color: #69707a;
+  font-family: "Open Sans", Arial, sans-serif;
+}
+
+strong {
+  color: #222324;
+}
+
+.navbar {
+  background: #127A2B;
+}
+
+.btn {
+  font-weight: 300;
+}
+
+.btn-primary {
+  background: #127A2B;
+  border-color: #e16879;
+}
+
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:focus,
+.btn-primary:active:focus {
+  background: #e05164;
+  border-color: #e05164;
+}
+
+
+
+.card-title {
+  color: #127A2B;
+  font-weight: 500;
+}
+
+.containerfullwidth {
+	min-width: 100%;
+}
+
+.center {
+	display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.bld {
+	display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+
